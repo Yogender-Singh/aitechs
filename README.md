@@ -1,44 +1,4 @@
-# [flaskBlog📜](https://dogukanurker.com/flaskblog)
-
-Simple blog app built with Flask.
-<br/>
-[Contact](mailto:dogukanurker@icloud.com)<br/>
-[Dogukan Urker](https://dogukanurker.com)
-
-|                 Desktop                  |                 Mobile                  |
-| :--------------------------------------: | :-------------------------------------: |
-| ![appDesktop](/images/desktop/light.png) | ![appMobile](/images/mobile/light.jpeg) |
-| ![appDesktop](/images/desktop/dark.png)  | ![appMobile](/images/mobile/dark.jpeg)  |
-
-## Features 💫
-
-| Feature               | Status |
-| :-------------------- | :----: |
-| User Page             |   ✅   |
-| User Login            |   ✅   |
-| User Points           |   ✅   |
-| User Delete           |   ✅   |
-| User Log Out          |   ✅   |
-| User Sign Up          |   ✅   |
-| User Name Change      |   ✅   |
-| User Settings Page    |   ✅   |
-| User Profile Pictures |   ✅   |
-| Admin Panel           |   ✅   |
-| Dashboard Page        |   ✅   |
-| Password Reset        |   ✅   |
-| CKEditor 5            |   ✅   |
-| Search Bar            |   ✅   |
-| Post Edit             |   ✅   |
-| Post Views            |   ✅   |
-| Post Delete           |   ✅   |
-| Post Creation         |   ✅   |
-| Comment               |   ✅   |
-| Comment Delete        |   ✅   |
-| Logging               |   ✅   |
-| Debug Messages        |   ✅   |
-| Database Checker      |   ✅   |
-| Dark/Light Themes     |   ✅   |
-| Responsive Design     |   ✅   |
+# [aitechs](https://dogukanurker.com/flaskblog)
 
 ## Requirements 📦
 
@@ -51,10 +11,10 @@ Simple blog app built with Flask.
 ## Installation ⬇️
 
 download source code from Github 💾
-`git clone https://github.com/DogukanUrker/flaskBlog.git`
+`git clone https://github.com/Yogender-Singh/aitechs.git`
 
 go to directory 📁
-`cd flaskBlog`
+`cd aitechs`
 
 install requirements.txt 🔽
 `pip install -r requirements.txt`
@@ -65,12 +25,4 @@ or
 `python desktop.py`
 for run flaskBlog as a desktop app 💯
 
-### Contributors 💕
 
-<a href="https://github.com/dogukanurker/flaskblog/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dogukanurker/flaskblog" />
-</a>
-
-### Support 💰
-
-<a href="https://dogukanurker.com/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
